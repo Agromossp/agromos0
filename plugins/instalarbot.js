@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-*◄INSTALACIÓN DEL BOT AGROMOS SP*
+*◄INSTALACIÓN DEL BOT PARAGUA🇵🇾*
 
 *🔰VIDEO TUTORIAL YouTube instalación 🔰: https://youtu.be/pZQqL51epBY* 
 
@@ -26,8 +26,8 @@ let handler = async m => m.reply(`
 ➤ apt install nodejs -y
 ➤ apt install ffmpeg -y
 ➤ apt install imagemagick -y
-➤ https://github.com/Agromos0/AgromosBotV2
-➤ cd AgromosBotV2
+➤ https://github.com/Agromossp/agromos0
+➤ cd agromos0
 ➤ npm install
 ➤ npm install -g npm@8.4.0
 ➤ npm update
