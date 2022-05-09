@@ -55,10 +55,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'Agromos sp - Bot'
+global.author = 'Paragua - Bot'
 
 
-global.wm = 'agromos sp - Bot'
+global.wm = 'paragua - Bot'
 global.wait = '*Espere un momento..*'
 
 
