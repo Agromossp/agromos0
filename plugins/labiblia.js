@@ -70,7 +70,7 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yurigif_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', 'MENU DESCARGAS', `#menudescargas`, m, false, { contextInfo: { mentionedJid }})   
+conn.sendButtonImg(m.chat, pp, menu, 'Paragua- Bot', 'MENU DESCARGAS', `#menudescargas`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'ora.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
