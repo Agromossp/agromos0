@@ -39,7 +39,7 @@ let handler = async m => m.reply(`
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
 ➤ PayPal para apoyo voluntario: toxicoyt084@gmail.com 
-➤ Numero de ayuda durante la instalacion: wa.me/18178659441 (No Bot, solo ayuda durante la instalación)
+➤ Numero de ayuda durante la instalacion: wa.me/595985958156 (No Bot, solo ayuda durante la instalación)
 
 *◄💚⚡💚⚡💚⚡►*
 `.trim()) 
